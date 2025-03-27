@@ -22,7 +22,7 @@ export default function Sidebar() {
       <div className="hidden xl:block">
         <div className=" border-b border-[#E8E8EA] flex flex-col">
           <div className="italic text-2xl font-bold pl-4 py-2 mt-4">
-            <h1 className="cursor-pointer">Notes</h1>
+            <h1 className="">Notes</h1>
           </div>
           <div className="py-3 ">
             <div className="flex gap-3 items-center py-4 px-4 hover:bg-[#F4F5F8] rounded-lg text-[#737378] hover:text-[#325CFE] cursor-pointer hover:shadow-lg">
