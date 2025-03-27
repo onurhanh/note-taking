@@ -1,7 +1,7 @@
 import CreateNote from "./CreateNote";
 import Navbar from "./Navbar";
 import NewNotes from "./NewNotes";
-import Sidebar from "./sidebar";
+import Sidebar from "./Sidebar";
 import SideButton from "./SideButton";
 
 export default function Homepage() {
